@@ -3,7 +3,7 @@
     "description": "Domain payload",
     "minimum-stability": "dev",
     "require": {
-        "php":"5.3.*"
+        "php":">=5.3.0"
     },
     "license": "BSD-2-Clause",
     "autoload": {
