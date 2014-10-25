@@ -12,12 +12,6 @@
         }
     },
     "extra": {
-        "aura": {
-            "type": "library",
-            "config": {
-                "common": "FOA\\DomainPayload\\_Config\\Common"
-            }
-        },
         "branch-alias": {
             "dev-master": "2.0.x-dev"
         }
