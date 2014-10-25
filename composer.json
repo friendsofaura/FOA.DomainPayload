@@ -1,0 +1,35 @@
+{
+    "name": "foa/domain-payload",
+    "description": "Domain payload",
+    "minimum-stability": "dev",
+    "require": {
+        "php":"5.3.*"
+    },
+    "license": "BSD-2-Clause",
+    "autoload": {
+        "psr-4": {
+            "FOA\\DomainPayload\\":"src/"
+        }
+    },
+    "extra": {
+        "aura": {
+            "type": "library",
+            "config": {
+                "common": "FOA\\DomainPayload\\_Config\\Common"
+            }
+        },
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hari KT",
+            "email": "kthari85@gmail.com"
+        },
+        {
+            "name": "Paul M Jones",
+            "email": "pmjones88@gmail.com"
+        }
+    ]
+}
