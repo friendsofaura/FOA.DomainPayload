@@ -1,11 +1,17 @@
 {
     "name": "foa/domain-payload",
+    "type": "library",
     "description": "Domain payload",
-    "minimum-stability": "dev",
+    "keywords": [
+        "payload",
+        "domain",
+        "adr"
+    ],
+    "homepage": "https://github.com/friendsofaura/FOA.DomainPayload",
+    "license": "BSD-2-Clause",
     "require": {
         "php":">=5.3.0"
     },
-    "license": "BSD-2-Clause",
     "autoload": {
         "psr-4": {
             "FOA\\DomainPayload\\":"src/"
@@ -13,7 +19,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-develop-2": "2.0.x-dev"
         }
     },
     "authors": [
@@ -24,6 +30,10 @@
         {
             "name": "Paul M Jones",
             "email": "pmjones88@gmail.com"
+        },
+        {
+            "name": "FOA.DomainPayload Contributors",
+            "homepage": "https://github.com/friendsofaura/FOA.DomainPayload/contributors"
         }
     ]
 }
