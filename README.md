@@ -8,7 +8,7 @@ Domain Payload is extracted from the [adr example](https://github.com/pmjones/ad
 
 This library requires PHP 5.3 or later, and has no userland dependencies.
 
-It is installable and autoloadable via Composer as [aura/cli](https://packagist.org/packages/foa/domain-payload).
+It is installable and autoloadable via Composer as [foa/domain-payload](https://packagist.org/packages/foa/domain-payload).
 
 Alternatively, [download a release](https://github.com/friendsofaura/FOA.DomainPayload/releases) or clone this repository, then require or include its _autoload.php_ file.
 
