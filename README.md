@@ -1,6 +1,6 @@
 # FOA.DomainPayload
 
-Domain Payload is extracted from the [adr example](https://github.com/pmjones/adr) of Paul M Jones.
+Domain Payload is extracted from the [adr example](https://github.com/pmjones/adr) of Paul M Jones. Retired in favour of [Aura.Payload](https://github.com/auraphp/Aura.Payload)
 
 ## Foreword
 
